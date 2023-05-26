@@ -1,4 +1,4 @@
-import { healthIndicator, sortCharacters } from '../app';
+import { healthIndicator, sortCharacters } from '../src/js/app';
 
 test.each([
     [{ name: 'char1', health: 90 }, 'healthy'],
